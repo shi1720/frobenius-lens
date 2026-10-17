@@ -1,0 +1,28 @@
+test_boundary (test_core.TestLens.test_boundary) ... /Users/shivamgupta/Documents/Codex/2026-10-17/you-have-done-great-work-till-8/work/.venv/lib/python3.12/site-packages/sympy/polys/polytools.py:6282: SymPyDeprecationWarning: 
+
+Ordered comparisons with modular integers are deprecated.
+
+            Use e.g. int(a) < int(b) instead of a < b.
+
+See https://docs.sympy.org/latest/explanation/active-deprecations.html#modularinteger-compare
+for details.
+
+This has been deprecated since SymPy version 1.13. It
+will be removed in a future version of SymPy.
+
+  return sorted(factors, key=key)
+ok
+test_constant (test_core.TestLens.test_constant) ... ok
+test_duplicate (test_core.TestLens.test_duplicate) ... ok
+test_empty_and_zero (test_core.TestLens.test_empty_and_zero) ... ok
+test_inconsistent (test_core.TestLens.test_inconsistent) ... ok
+test_observation_shape (test_core.TestLens.test_observation_shape) ... ok
+test_recovery (test_core.TestLens.test_recovery) ... ok
+test_reference_example (test_core.TestLens.test_reference_example) ... ok
+test_repair_no_solution (test_core.TestLens.test_repair_no_solution) ... ok
+test_unsupported (test_core.TestLens.test_unsupported) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.981s
+
+OK

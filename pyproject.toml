@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "frobenius-lens"
+version = "0.1.0"
+description = "Exact identifiability certificates for Frobenius-time periodic cellular-automaton experiments"
+requires-python = ">=3.12"
+dependencies = ["sympy==1.14.0"]
+
+[project.optional-dependencies]
+research = ["numpy==2.5.4", "matplotlib==3.11.2"]
+
+[tool.setuptools]
+py-modules = ["frobenius_lens"]
+package-dir = {"" = "src"}

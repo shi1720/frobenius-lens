@@ -1,0 +1,5 @@
+{
+  "checks": 17890,
+  "failures": 0,
+  "description": "Binary JS kernel against Python degree/rank fixtures plus independent repeated time stepping."
+}

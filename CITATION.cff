@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this research artifact."
+title: "Frobenius Lens: Exact Experiment Audits for Periodic Cellular Automata"
+type: software
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+version: 0.1.0
+date-released: 2026-10-17
+url: "https://github.com/shi1720/frobenius-lens"
+license: MIT
+repository-code: "https://github.com/shi1720/frobenius-lens"

@@ -1,0 +1,22 @@
+{
+  "counts": {
+    "single_rank": 26180,
+    "suite_rank": 600,
+    "snapshot_agreement": 1545,
+    "kernel_witness": 975,
+    "fiber_enumeration": 435,
+    "impulse_formula": 2304,
+    "case_fiber": 5,
+    "repair_full": 1,
+    "repair_bounded": 1,
+    "domain_guard": 4,
+    "non_frobenius_counterexample": 1
+  },
+  "total_checks": 32051,
+  "failures": [],
+  "wall_seconds": 69.13545212499594,
+  "protocol_sha256": "28873bd3abc7d1cf75668cd251f76595b6d1642ff49db10c143cc55ba60495c1",
+  "python": "3.12.14",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "notes": "Exact tests; seeds are deterministic. No population error-rate or LLM performance inference."
+}
