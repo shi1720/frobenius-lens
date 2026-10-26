@@ -6,9 +6,9 @@ A periodic simulator can return the same snapshots for different local rules. Fr
 
 Author: Shivam Gupta · Independent Researcher
 
-**Journal status:** Submitted for consideration to the Journal of Cellular Automata on 17 October 2026; editorial acknowledgment pending. [Submitted journal manuscript](paper/journal/Frobenius_Lens_JCA_Submission.pdf).
+**Journal status:** The current revision was submitted to *Applicable Algebra in Engineering, Communication and Computing* on 26 October 2026 and is at the technical-check stage. The [17 October journal-layout manuscript](paper/journal/Frobenius_Lens_JCA_Submission.pdf) is an earlier public version.
 
-[Read the paper](paper/Frobenius_Lens_Shivam_Gupta.pdf) · [Open the interactive app](https://shi1720.github.io/frobenius-lens/) · [Proof and claim boundary](docs/RESEARCH_SCOPE.md)
+[Read the original 17 October preprint](paper/Frobenius_Lens_Shivam_Gupta.pdf) · [Open the interactive app](https://shi1720.github.io/frobenius-lens/) · [Proof and claim boundary](docs/RESEARCH_SCOPE.md)
 
 ## A counterintuitive, fully checked example
 
